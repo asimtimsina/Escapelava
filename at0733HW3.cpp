@@ -51,9 +51,9 @@ void mydata(){
     // this function contains no parameter and prints the information about the department, student's name, euid and email
 
 cout << "+-----------------------------------------------+"<<endl;
-cout << "|       Computer Science and Engineering        |" << endl;
-cout << "|        CSCE 1030 - Computer Science I         |" << endl;
-cout << "|  Asim Timsina    at0733    at0733@my.unt.edu  |" << endl;
+cout << "|                                               |" << endl;
+cout << "|                Asim Timsina                   |" << endl;
+cout << "|                                               |" << endl;
 cout << "+-----------------------------------------------+ " << endl << endl ; 
 
 }
